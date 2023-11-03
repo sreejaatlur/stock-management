@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "sequelize": "^6.33.0",
-    "restify": "^10.0.0"
+    "restify": "^10.0.0",
+    "pg": "^8.11.3"
   },
   "devDependencies": {},
   "author": "",
