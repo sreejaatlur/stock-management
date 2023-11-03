@@ -14,7 +14,8 @@
     "url": "https://github.com"
   },
   "dependencies": {
-    "sequelize": "^6.33.0"
+    "sequelize": "^6.33.0",
+    "restify": "^10.0.0"
   },
   "devDependencies": {},
   "author": "",
